@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-lorem ipsum dolor sit amet
+lishin is a good boy
 
 ## How to test
 
-adispiscing consectuer elit
+lishin is a good boy
 
 ## External hardware
 
-lorem ipsum dolor sit amet adispiscing consectuer elit
+lishin is a good boy
